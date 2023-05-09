@@ -1,0 +1,7 @@
+.btn-text {
+	color: #658AFC; 
+}
+
+.btn-main:hover .btn-text {
+	color: #2C5EFB;
+}
